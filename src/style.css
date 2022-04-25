@@ -1,6 +1,5 @@
 body {
-    background: #CCCCCC
-      
+    background: #cccccc;
 }
 
 p {
@@ -8,11 +7,18 @@ p {
 }
 
 em strong {
-    color: red;
+    color: #FF0000;
 }
 
 h1 {
   text-align: center;
 }
 
+#missao{
+	font-size:20px;
+}
 
+#banner{
+	width: 50%;
+
+}
